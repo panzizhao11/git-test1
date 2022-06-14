@@ -11,5 +11,6 @@ public class test {
         System.out.println("111");
         System.out.println("111");
         System.out.println("master commit");
+        System.out.println("hot fix commit");
     }
 }
